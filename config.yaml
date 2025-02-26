@@ -42,9 +42,9 @@ params:
         emoji: 🐑
         subtitle: AI探索之旅
         avatar:
-            enabled: true  # 启用头像
+            enabled: true
             local: true
-            src: img/avatar.png
+            src: /img/avatar.png
 
     article:
         math: false
