@@ -1,0 +1,11 @@
+# 请将下面的 USERNAME 替换为你的GitHub用户名后运行这些命令：
+
+git branch -M main
+git remote add origin https://github.com/USERNAME/yangzai-blog.github.io.git
+git push -u origin main
+
+# 推送完成后：
+1. 访问 https://github.com/USERNAME/yangzai-blog.github.io/settings/pages
+2. 在 "Build and deployment" 部分：
+   - Source: 选择 "GitHub Actions"
+3. 等待几分钟，GitHub Actions 会自动构建和部署你的网站 
