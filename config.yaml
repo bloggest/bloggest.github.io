@@ -43,7 +43,7 @@ params:
         subtitle: AI探索之旅
         avatar:
             enabled: true
-            local: true
+            local: false
             src: /img/avatar.png
 
     article:
@@ -79,9 +79,9 @@ params:
 
     defaultImage:
         opengraph:
-            enabled: false
+            enabled: true
             local: false
-            src:
+            src: /img/avatar.png
 
     colorScheme:
         # Display toggle
