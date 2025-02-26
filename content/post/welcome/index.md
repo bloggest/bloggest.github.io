@@ -2,7 +2,7 @@
 title: "欢迎来到羊仔AI探索"
 description: "这是一个专注于AI技术探索与分享的博客"
 date: 2024-01-20
-# image: cover.jpg  # 暂时注释掉图片
+image: cover.jpg
 categories:
     - 公告
 tags:

@@ -28,7 +28,7 @@ params:
         - post
     featuredImageField: image
     rssFullContent: true
-    favicon:
+    favicon: /img/favicon.ico
 
     footer:
         since: 2024
@@ -42,7 +42,7 @@ params:
         emoji: 🐑
         subtitle: AI探索之旅
         avatar:
-            enabled: false  # 暂时禁用头像
+            enabled: true  # 启用头像
             local: true
             src: img/avatar.png
 
